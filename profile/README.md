@@ -4,7 +4,11 @@
 
 Team Snaily is a **Gaming Community & Tech Holding** based in Rotterdam. We operate as a "House of Brands," bridging the gap between passionate gaming communities and enterprise-grade technology.
 
-The snail in our identity doesn't stand for slowness it stands for **persistence** and **tracking**. We are engineered for endurance.
+### 🧬 Who We Are
+
+We are the creators of the **famous FiveM snail mascot**.
+
+Beyond the icon, we are builders. The snail in our identity stands for **persistence** and **tracking**. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming and tech sectors.
 
 ### 🧬 Our Divisions
 
@@ -35,7 +39,7 @@ We utilize a hybrid environment of custom cloud architecture (GCP) and specializ
 ### 🚀 Capabilities
 
 * **Community-Led Development:** We build what our community actually needs.
-* **High-Performance Hosting:** Managing scalable game servers via Zap-Hosting.
+* **High-Performance Hosting:** Managing scalable game servers via ZAP-Hosting.
 * **Data-Driven Engineering:** Leveraging BigQuery and AI for deep analytics.
 
 ---
