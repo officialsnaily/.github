@@ -12,11 +12,15 @@ Beyond the icon, we are builders. The snail in our identity stands for **persist
 
 ### 🧬 Our Divisions
 
-We are split into two core operating branches:
+We are split into three core operating branches:
 
-#### 🎮 Snaily Gaming
+#### 🎯 Snaily Community
 *The Proving Ground.*
 Our active community of 7,000+ members serves as the foundation of our ecosystem. It is here that we understand user behavior, stress-test our infrastructure, and maintain our roots in the gaming culture.
+
+#### 🎮 Snaily Games
+*The Front Line.*
+Our creative powerhouse dedicated to developing immersive, high-fidelity gaming experiences. By leveraging the insights from our community and the tech from our labs, we build games that aren't just played they're lived.
 
 #### 🧪 Snaily Labs
 *The Engine Room.*
