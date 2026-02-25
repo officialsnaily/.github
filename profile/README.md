@@ -10,7 +10,7 @@ We are the creators of the **famous FiveM snail mascot**.
 
 Beyond the icon, we are builders. The snail in our identity stands for **persistence** and **tracking**. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming and tech sectors.
 
-### Our Divisions
+### 📌 Our Divisions
 
 We are split into three core operating branches:
 
@@ -35,7 +35,7 @@ We utilize a hybrid environment of custom cloud architecture (GCP) and specializ
 | Domain | Technologies |
 | :--- | :--- |
 | **App Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Marketing Web** | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) *(Avada Framework)* |
+| **Marketing Web** | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) ![Avada Framework](https://img.shields.io/badge/ZAP--Hosting-108a00?style=flat&logo=server&logoColor=white) |
 | **Backend & Data** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
 | **Infrastructure** | ![ZAP-Hosting](https://img.shields.io/badge/ZAP--Hosting-108a00?style=flat&logo=server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
