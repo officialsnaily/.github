@@ -10,7 +10,7 @@ We are the creators of the **famous FiveM snail mascot**.
 
 Beyond the icon, we are builders. The snail in our identity stands for **persistence** and **tracking**. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming and tech sectors.
 
-### 🧬 Our Divisions
+### Our Divisions
 
 We are split into three core operating branches:
 
