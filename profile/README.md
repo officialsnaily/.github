@@ -1,34 +1,38 @@
-# 🐌 Team Snaily
+# 🐌 Snaily Games
 
-**Reliable. Technical. Persistent.**
+**Move at your own pace. Play together. 🎮🐌**
 
-Team Snaily is a **Gaming Community & Tech Holding** based in Rotterdam. We operate as a "House of Brands," bridging the gap between passionate gaming communities and enterprise-grade technology.
+Snaily Games is a creative powerhouse. Based in Rotterdam, we bridge the gap between passionate gaming communities and high-performance technology. We operate a **House of Brands** strategy, powering everything from viral browser games to deep-simulation mods.
 
 ---
 
-### 🧬 Who We Are
+### 🧬 The Snaily Identity
 
 We are the creators of the **famous FiveM snail mascot**.
 
-Beyond the icon, we are builders. The snail in our identity stands for **persistence** and **tracking**. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming and tech sectors.
+Beyond the icon, we are builders. To us, the snail represents more than just a character; it stands for persistence and tracking. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming sector. While others rush, we focus on the trail we leave behind.
 
 ---
 
 ### 📌 Our Divisions
 
-We are split into three core operating branches:
+Snaily Games is organized into four strategic branches:
 
-#### 🎯 Snaily Community
-*The Proving Ground.*
-Our active community of 7,000+ members serves as the foundation of our ecosystem. It is here that we understand user behavior, stress-test our infrastructure, and maintain our roots in the gaming culture.
+#### 🚀 Snaily Originals
+*The Masterpieces.*
+Home to our flagship titles and simulators. We build games that aren't just played they're lived.
 
-#### 🎮 Snaily Games
-*The Front Line.*
-Our creative powerhouse dedicated to developing immersive, high-fidelity gaming experiences. By leveraging the insights from our community and the tech from our labs, we build games that aren't just played they're lived.
+#### 🕹️ Snaily Arcade
+*Instant Play. Infinite Fun.*
+We host thousands of AI optimized HTML5 experiences. Powered by our autonomous snAIrcade ingestion engine, providing instant gaming without downloads.
 
 #### 🧪 Snaily Labs
 *The Engine Room.*
-Our Research & Development division. Snaily Labs is a specialized team of engineers and designers focused on building autonomous AI solutions, SaaS platforms, and cloud-native architectures.
+Our specialized R&D wing focused on Game Development, custom Game Plugins, and the maintenance of the LVPDFR/NLPDFR legacy. This is where we stress-test new mechanics and AI-driven gameplay.
+
+#### 🤝 Snaily Community
+*The Proving Ground.*
+Our foundation of 7,000+ members. This is where we listen, learn, and maintain our roots in gaming culture. It serves as the ultimate testing environment for everything we build.
 
 ---
 
